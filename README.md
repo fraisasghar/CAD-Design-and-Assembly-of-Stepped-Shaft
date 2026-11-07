@@ -1,3 +1,6 @@
+
+<!--------|---------|---------|------------------- Main Banner  ----------------------------------------------------------------->
+
 <div align="center">
   
   ![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaft+Assembly+CAD+Project&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Precision+Engineering+%7C+3D+Modeling+%7C+Mechanical+Design&descSize=20&descAlignY=70)
